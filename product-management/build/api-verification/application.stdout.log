@@ -1,0 +1,21 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.1.1)
+
+2026-10-08T05:47:17.584+07:00  INFO 12332 --- [product-management] [           main] c.e.p.ProductManagementApplication       : Starting ProductManagementApplication v0.0.1-SNAPSHOT using Java 21 with PID 12332 (D:\Code\Springboot\product-management\build\libs\product-management-0.0.1-SNAPSHOT.jar started by Truong Van Thuan in D:\Code\Springboot\product-management)
+2026-10-08T05:47:17.594+07:00  INFO 12332 --- [product-management] [           main] c.e.p.ProductManagementApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-10-08T05:47:18.726+07:00  INFO 12332 --- [product-management] [           main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 0 (http)
+2026-10-08T05:47:18.748+07:00  INFO 12332 --- [product-management] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-08T05:47:18.749+07:00  INFO 12332 --- [product-management] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-08T05:47:18.796+07:00  INFO 12332 --- [product-management] [           main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1118 ms
+2026-10-08T05:47:19.185+07:00  INFO 12332 --- [product-management] [           main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 49506 (http) with context path '/'
+2026-10-08T05:47:19.201+07:00  INFO 12332 --- [product-management] [           main] c.e.p.ProductManagementApplication       : Started ProductManagementApplication in 2.12 seconds (process running for 2.699)
+2026-10-08T05:47:19.636+07:00  INFO 12332 --- [product-management] [1-auto-1-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-10-08T05:47:19.641+07:00  INFO 12332 --- [product-management] [1-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-10-08T05:47:19.642+07:00  INFO 12332 --- [product-management] [1-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
